@@ -15,4 +15,4 @@ Email: abdaiziz8300@gmail.com  | LinkedIn: [https://www.linkedin.com/in/Abdiaziz
 - [Hierarchical Clustering](https://github.com/abdiaziz007/ML-projects-/blob/master/Data-Science%20Projects%202/Hierarchical%20clustering.ipynb): Principal Components Analysis, Hierarchical Clustering
 - [Beer, Wine and Data Science](https://github.com/abdiaziz007/ML-projects-/blob/master/Data-Science%20Projects%202/Beer.ipynb): Regressions, Business Objectives, using Python, matplotlib and Seaborn
 - [KMeans](https://github.com/abdiaziz007/ML-projects-/blob/master/Data-Science%20Projects%202/KMeans.ipynb): Showcasing KMeans on the Wisconsin breast cancer dataset
-- [Clustering Postcodes](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Clustering%20Postcodes.ipynb): Clustering algorithms, KMeans, Hierarchical, DBSCAN
+- [Clustering Postcodes](https://github.com/abdiaziz007/ML-projects-/blob/master/Data-Science%20Projects%202/Clustering%20Postcodes.ipynb): Clustering algorithms, KMeans, Hierarchical, DBSCAN
